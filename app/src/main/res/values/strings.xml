@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InterfazSimple</string>
+
+
+    <string name="action_settings">Opciones</string>
+    <string name="edit_message">Esto es un texto</string>
+    <string name="button_send">Botonsito</string>
+
+
+</resources>
